@@ -1,5 +1,5 @@
+# Archives
+*.gz
+
 # Active Log
 latest.log
-
-# Log Archive
-*.gz
