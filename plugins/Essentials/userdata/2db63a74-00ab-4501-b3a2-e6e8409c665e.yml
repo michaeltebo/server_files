@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: true
+muted: false
+jailed: false
+ip-address: 68.4.206.156
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1644559731362
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1644741253904
+  login: 1644739193138
+money: '9999998592.5799999999999998'
+last-account-name: MasterXeonOfCali
+lastlocation:
+  world: fe23ae59-668f-453b-841b-4fdf7e1a759f
+  world-name: Smorgasbord
+  x: -618.5
+  y: 69.875
+  z: 195.5
+  yaw: -92.81299591064453
+  pitch: 14.40002727508545
+logoutlocation:
+  world: fe23ae59-668f-453b-841b-4fdf7e1a759f
+  world-name: Smorgasbord
+  x: 898.3197839012869
+  y: 87.0
+  z: 1343.0207489278005
+  yaw: 34.034366607666016
+  pitch: 36.4498176574707

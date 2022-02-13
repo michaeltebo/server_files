@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 98.203.161.91
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1644732848595
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1644734216221
+  login: 1644724818571
+money: '0'
+last-account-name: NemophilaMiyuki
+lastlocation:
+  world: fe23ae59-668f-453b-841b-4fdf7e1a759f
+  world-name: Smorgasbord
+  x: 1009.6758969355369
+  y: 95.12499929243803
+  z: 57.496058563896185
+  yaw: -121.28047180175781
+  pitch: 25.083560943603516
+logoutlocation:
+  world: fe23ae59-668f-453b-841b-4fdf7e1a759f
+  world-name: Smorgasbord
+  x: 1271.1390441642086
+  y: 72.0
+  z: -376.0644909236228
+  yaw: -117.124267578125
+  pitch: 37.20024490356445

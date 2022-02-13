@@ -1,0 +1,111 @@
+[00:00:00] [Server thread/INFO]: Saving the game (this may take a moment!)
+[00:00:03] [Server thread/INFO]: Saved the game
+[00:00:06] [Server thread/INFO]: LucianDragon2113 joined the game
+[00:00:06] [Server thread/INFO]: LucianDragon2113[/99.170.162.146:49928] logged in with entity id 626 at ([Smorgasbord]999.9647574490074, 41.97289666351843, 524.110738389694)
+[00:00:11] [Server thread/INFO]: CONSOLE issued server command: /give LucianDragon2113 cookie 1
+[00:00:11] [Server thread/INFO]: Giving 1 of cookie to LucianDragon2113.
+[00:00:16] [Async Chat Thread - #0/INFO]: [Konquest] KingdomOfAntioch | LucianDragon2113: the hell happened?
+[00:00:26] [Async Chat Thread - #0/INFO]: [Konquest] KingdomOfAntioch | MasterXeonOfCali: You moved too fast again and blew up the java process.
+[00:00:46] [Async Chat Thread - #0/INFO]: [Konquest] KingdomOfAntioch | LucianDragon2113: i was holding still working on my monument area
+[00:01:15] [Async Chat Thread - #0/INFO]: [Konquest] KingdomOfAntioch | MasterXeonOfCali: Weird... It gave a similar error. I'll check the logs again, later to t-shoot.
+[00:01:38] [Async Chat Thread - #0/INFO]: [Konquest] KingdomOfAntioch | LucianDragon2113: nathan was in the same area as me tp in and out of existence
+[00:03:08] [Async Chat Thread - #1/INFO]: [Konquest] KingdomOfAntioch | LucianDragon2113: could that have caused a similar error?
+[00:04:41] [Async Chat Thread - #2/INFO]: [Konquest] KingdomOfAntioch | MasterXeonOfCali: Possibly.
+[00:06:28] [Async Chat Thread - #3/INFO]: [Konquest] KingdomOfAntioch | LucianDragon2113: oh, lovely
+[00:06:42] [Server thread/INFO]: LucianDragon2113 issued server command: /k help
+[00:07:07] [Server thread/INFO]: LucianDragon2113 issued server command: /k exile
+[00:07:22] [Server thread/INFO]: LucianDragon2113 issued server command: /tp LucianDragon2113 LucianDragon2113
+[00:07:27] [Server thread/INFO]: LucianDragon2113 issued server command: /k exile
+[00:07:28] [Server thread/INFO]: [Konquest] The Kingdom of KingdomOfAntioch will be protected in 5:00 minutes.
+[00:07:33] [Server thread/INFO]: LucianDragon2113 issued server command: /return
+[00:07:56] [Async Chat Thread - #4/INFO]: [Konquest] Barbarians | LucianDragon2113: hopefully that worked
+[00:08:02] [Async Chat Thread - #4/INFO]: [Konquest] Barbarians | LucianDragon2113: it did, okay
+[00:19:34] [Async Chat Thread - #5/INFO]: [Konquest] Barbarians | LucianDragon2113: still there dad?
+[00:20:48] [Server thread/INFO]: LucianDragon2113 issued server command: /k admin makekingdom UnterDammOshen
+[00:21:06] [Server thread/INFO]: LucianDragon2113 issued server command: /k admin claim radius 5
+[00:21:33] [Server thread/INFO]: LucianDragon2113 issued server command: /k admin monument UnterDammOshen create
+[00:22:11] [Async Chat Thread - #6/INFO]: [Konquest] Barbarians | LucianDragon2113: woo i did it!
+[00:22:49] [Server thread/INFO]: LucianDragon2113 issued server command: /k join UnterDammOshen
+[00:22:49] [Server thread/INFO]: [Konquest] LucianDragon2113 has joined Kingdom UnterDammOshen
+[00:30:00] [Server thread/INFO]: Saving the game (this may take a moment!)
+[00:30:00] [Server thread/INFO]: Saved the game
+[00:34:13] [Server thread/INFO]: MasterXeonOfCali lost connection: Disconnected
+[00:34:13] [Server thread/INFO]: MasterXeonOfCali left the game
+[00:51:12] [Server thread/INFO]: LucianDragon2113 issued server command: /k admin monument UnterDammOshen show
+[00:51:43] [Server thread/INFO]: LucianDragon2113 issued server command: /k admin monument UnterDammOshen create
+[00:52:19] [Server thread/INFO]: LucianDragon2113 issued server command: /k admin monument UnterDammOshen create
+[00:52:50] [Server thread/INFO]: LucianDragon2113 issued server command: /k admin monument UnterDammOshen create
+[00:52:54] [Server thread/INFO]: LucianDragon2113 issued server command: /k admin monument UnterDammOshen create
+[00:53:49] [Server thread/INFO]: LucianDragon2113 issued server command: /k admin monument UnterDammOshen create
+[00:54:09] [Server thread/INFO]: LucianDragon2113 issued server command: /k admin monument UnterDammOshen create
+[00:58:36] [Server thread/INFO]: LucianDragon2113 lost connection: Disconnected
+[00:58:36] [Server thread/INFO]: LucianDragon2113 left the game
+[00:59:44] [Craft Scheduler Thread - 42 - QuickShop/INFO]: [QuickShop] A new version of QuickShop has been released! [127]
+[00:59:44] [Craft Scheduler Thread - 42 - QuickShop/INFO]: [QuickShop] Update here: https://www.spigotmc.org/resources/62575/
+[01:00:00] [Server thread/INFO]: Saving the game (this may take a moment!)
+[01:00:00] [Server thread/INFO]: Saved the game
+[01:30:00] [Server thread/INFO]: Saving the game (this may take a moment!)
+[01:30:00] [Server thread/INFO]: Saved the game
+[01:59:44] [Craft Scheduler Thread - 33 - QuickShop/INFO]: [QuickShop] A new version of QuickShop has been released! [127]
+[01:59:44] [Craft Scheduler Thread - 33 - QuickShop/INFO]: [QuickShop] Update here: https://www.spigotmc.org/resources/62575/
+[02:00:00] [Server thread/INFO]: Saving the game (this may take a moment!)
+[02:00:00] [Server thread/INFO]: Saved the game
+[02:30:00] [Server thread/INFO]: Saving the game (this may take a moment!)
+[02:30:00] [Server thread/INFO]: Saved the game
+[02:59:23] [Thread-12/INFO]: [CBP] [CBP] Checking for updates...
+[02:59:45] [Craft Scheduler Thread - 33 - QuickShop/INFO]: [QuickShop] A new version of QuickShop has been released! [127]
+[02:59:45] [Craft Scheduler Thread - 33 - QuickShop/INFO]: [QuickShop] Update here: https://www.spigotmc.org/resources/62575/
+[03:00:00] [Server thread/INFO]: Saving the game (this may take a moment!)
+[03:00:00] [Server thread/INFO]: Saved the game
+[03:30:00] [Server thread/INFO]: Saving the game (this may take a moment!)
+[03:30:00] [Server thread/INFO]: Saved the game
+[03:59:44] [Craft Scheduler Thread - 53 - QuickShop/INFO]: [QuickShop] A new version of QuickShop has been released! [127]
+[03:59:44] [Craft Scheduler Thread - 53 - QuickShop/INFO]: [QuickShop] Update here: https://www.spigotmc.org/resources/62575/
+[04:00:00] [Server thread/INFO]: Saving the game (this may take a moment!)
+[04:00:00] [Server thread/INFO]: Saved the game
+[04:21:11] [User Authenticator #2/INFO]: UUID of player Onyxistent is 646bef0b-b92c-4960-91c0-01978ff53c6b
+[04:21:11] [Server thread/INFO]: Onyxistent joined the game
+[04:21:11] [Server thread/INFO]: Onyxistent[/68.4.206.156:63377] logged in with entity id 9082 at ([Smorgasbord]1250.9136693787877, 11.0, -3.684553129797788)
+[04:21:16] [Server thread/INFO]: CONSOLE issued server command: /give Onyxistent cookie 1
+[04:21:16] [Server thread/INFO]: Giving 1 of cookie to Onyxistent.
+[04:30:00] [Server thread/INFO]: Saving the game (this may take a moment!)
+[04:30:00] [Server thread/INFO]: Saved the game
+[04:59:44] [Craft Scheduler Thread - 42 - PvPManager/INFO]: [PvPManager] Checking for updates...
+[04:59:44] [Craft Scheduler Thread - 42 - PvPManager/INFO]: [PvPManager] No update found
+[04:59:44] [Craft Scheduler Thread - 49 - QuickShop/INFO]: [QuickShop] A new version of QuickShop has been released! [127]
+[04:59:44] [Craft Scheduler Thread - 49 - QuickShop/INFO]: [QuickShop] Update here: https://www.spigotmc.org/resources/62575/
+[05:00:00] [Server thread/INFO]: Saving the game (this may take a moment!)
+[05:00:00] [Server thread/INFO]: Saved the game
+[05:21:30] [User Authenticator #3/INFO]: UUID of player MonkeyTamer79 is e31f61f0-3640-41b2-81e0-96904e9a9883
+[05:21:30] [Server thread/INFO]: MonkeyTamer79 joined the game
+[05:21:30] [Server thread/INFO]: MonkeyTamer79[/68.4.206.156:54132] logged in with entity id 11203 at ([Smorgasbord]183.52275312527357, 67.0, 561.3000000119209)
+[05:21:35] [Server thread/INFO]: CONSOLE issued server command: /give MonkeyTamer79 cookie 1
+[05:21:35] [Server thread/INFO]: Giving 1 of cookie to MonkeyTamer79.
+[05:24:37] [Server thread/INFO]: MonkeyTamer79 lost connection: Disconnected
+[05:24:37] [Server thread/INFO]: MonkeyTamer79 left the game
+[05:30:00] [Server thread/INFO]: Saving the game (this may take a moment!)
+[05:30:00] [Server thread/INFO]: Saved the game
+[05:31:49] [User Authenticator #4/INFO]: UUID of player MonkeyTamer79 is e31f61f0-3640-41b2-81e0-96904e9a9883
+[05:31:49] [Server thread/INFO]: MonkeyTamer79 joined the game
+[05:31:49] [Server thread/INFO]: MonkeyTamer79[/68.4.206.156:64013] logged in with entity id 11851 at ([Smorgasbord]182.98217859456125, 61.0, 572.3946703482374)
+[05:31:54] [Server thread/INFO]: CONSOLE issued server command: /give MonkeyTamer79 cookie 1
+[05:31:54] [Server thread/INFO]: Giving 1 of cookie to MonkeyTamer79.
+[05:31:56] [Async Chat Thread - #7/INFO]: [Konquest] Barbarians | Onyxistent: yo
+[05:32:13] [Async Chat Thread - #7/INFO]: [Konquest] KingdomOfAntioch | MonkeyTamer79: yo. changed skin
+[05:32:24] [Async Chat Thread - #7/INFO]: [Konquest] Barbarians | Onyxistent: nicee
+[05:37:21] [Server thread/INFO]: MonkeyTamer79 issued server command: /time set
+[05:37:28] [Server thread/INFO]: MonkeyTamer79 issued server command: /time set noon
+[05:37:45] [Async Chat Thread - #8/INFO]: [Konquest] KingdomOfAntioch | MonkeyTamer79: I'm on a boat!
+[05:54:33] [Async Chat Thread - #9/INFO]: [Konquest] Barbarians | Onyxistent: ooh boat XD
+[05:59:23] [Thread-12/INFO]: [CBP] [CBP] Checking for updates...
+[05:59:44] [Craft Scheduler Thread - 63 - Vault/INFO]: [Vault] Checking for Updates ... 
+[05:59:44] [Craft Scheduler Thread - 63 - Vault/INFO]: [Vault] No new version available
+[05:59:45] [Craft Scheduler Thread - 59 - QuickShop/INFO]: [QuickShop] Failed to check for an update on build server! It might be an internet issue or the build server host is down. If you want disable the update checker, you can disable in config.yml, but we still high-recommend check for updates on SpigotMC.org often, Error: Did not get expected response code, got 404 for https://ci.codemc.io/job/Ghost-chu/job/QuickShop-Reremake/lastSuccessfulBuild/artifact/target/BUILDINFO
+[06:00:00] [Server thread/INFO]: Saving the game (this may take a moment!)
+[06:00:00] [Server thread/INFO]: Saved the game
+[06:04:41] [Async Chat Thread - #10/INFO]: [Konquest] KingdomOfAntioch | MonkeyTamer79: yep... water is still wet
+[06:24:47] [Server thread/INFO]: Onyxistent has made the advancement [Hot Stuff]
+[06:30:00] [Server thread/INFO]: Saving the game (this may take a moment!)
+[06:30:00] [Server thread/INFO]: Saved the game
+[06:34:58] [Server thread/INFO]: MonkeyTamer79 lost connection: Disconnected
+[06:34:58] [Server thread/INFO]: MonkeyTamer79 left the game

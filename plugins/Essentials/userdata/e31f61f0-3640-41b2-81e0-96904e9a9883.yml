@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 68.4.206.156
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1644762898111
+  login: 1644759109700
+money: '9999999695.5000000000000000'
+last-account-name: MonkeyTamer79
+lastlocation:
+  world: fe23ae59-668f-453b-841b-4fdf7e1a759f
+  world-name: Smorgasbord
+  x: 2.565885721151656
+  y: 116.0
+  z: 159.5049538955163
+  yaw: 93.6483154296875
+  pitch: 58.500099182128906
+logoutlocation:
+  world: fe23ae59-668f-453b-841b-4fdf7e1a759f
+  world-name: Smorgasbord
+  x: -22.915555549759453
+  y: 78.0
+  z: 184.22338119365983
+  yaw: -6.3887939453125
+  pitch: 15.149508476257324

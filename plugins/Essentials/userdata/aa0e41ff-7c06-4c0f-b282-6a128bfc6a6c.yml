@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 68.4.206.156
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1644453852569
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1644735879504
+  login: 1644736004451
+money: '0.0'
+last-account-name: nate_4000
+lastlocation:
+  world: fe23ae59-668f-453b-841b-4fdf7e1a759f
+  world-name: Smorgasbord
+  x: 1102.5426382360683
+  y: 51.0
+  z: 507.36469129471345
+  yaw: 78.29531860351562
+  pitch: -17.096071243286133
+logoutlocation:
+  world: fe23ae59-668f-453b-841b-4fdf7e1a759f
+  world-name: Smorgasbord
+  x: 38.52399428156845
+  y: 56.0
+  z: 176.69999998807907
+  yaw: 126.21554565429688
+  pitch: 13.367161750793457
