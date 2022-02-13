@@ -1,0 +1,5 @@
+# Active Log
+latest.log
+
+# Log Archive
+*.gz
