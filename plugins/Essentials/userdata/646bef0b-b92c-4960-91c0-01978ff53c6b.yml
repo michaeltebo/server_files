@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1644735879495
+  logout: 1644766331692
   login: 1644754871901
 money: '0'
 last-account-name: Onyxistent
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: fe23ae59-668f-453b-841b-4fdf7e1a759f
   world-name: Smorgasbord
-  x: 1250.9136693787877
-  y: 11.0
-  z: -3.684553129797788
-  yaw: -103.63336181640625
-  pitch: -13.200214385986328
+  x: 1265.3325239735677
+  y: 13.0
+  z: -5.912802398492304
+  yaw: 179.7021484375
+  pitch: 7.498904228210449
