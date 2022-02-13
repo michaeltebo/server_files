@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1644762898111
-  login: 1644759109700
+  logout: 1644779782194
+  login: 1644777743746
 money: '9999999695.5000000000000000'
 last-account-name: MonkeyTamer79
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: fe23ae59-668f-453b-841b-4fdf7e1a759f
   world-name: Smorgasbord
-  x: -22.915555549759453
-  y: 78.0
-  z: 184.22338119365983
-  yaw: -6.3887939453125
-  pitch: 15.149508476257324
+  x: 643.6999999880791
+  y: 63.0
+  z: 315.5558459316302
+  yaw: -132.0878448486328
+  pitch: 36.74922561645508

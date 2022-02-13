@@ -1,11 +1,11 @@
 # Commands executed for player on login. This placeholders are supported:
 # {player} - name of player
 onJoin:
-- delay: 100
+- delay: 1000
   as: CONSOLE
   cmd: give {player} cookie 1
 onFirstJoin:
-- delay: 100
+- delay: 1000
   as: CONSOLE
   cmd: give {player} cookie 1
 onInteract:
