@@ -2,14 +2,14 @@
 session.lock
 
 #Player data
-advancements/*
-data/*
-datapacks/*
-entities/*
-playerdata/*
-poi/*
-region/*
-stats/*
+/advancements/*
+/data/*
+/datapacks/*
+/entities/*
+/playerdata/*
+/poi/*
+/region/*
+/stats/*
 
 #Level data
 *.nbt
