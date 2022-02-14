@@ -97,11 +97,11 @@ core:
     raid_alert_cooldown: 30
     travel_cooldown: 120
     enable_upgrades: true
-    enable_armor: true
-    enable_shields: true
+    enable_armor: false
+    enable_shields: false
     armor_tnt_damage: 10
-    shields_while_attacked: false
-    armor_while_attacked: false
+    shields_while_attacked: true
+    armor_while_attacked: true
     shields_add: true
     armor_add: true
     max_shields: 432000

@@ -177,3 +177,265 @@ CloseCode(4004 / The account token sent with your identify payload is incorrect.
 [15:00:00] [Server thread/INFO]: Saved the game
 [15:30:00] [Server thread/INFO]: Saving the game (this may take a moment!)
 [15:30:00] [Server thread/INFO]: Saved the game
+[15:59:52] [Craft Scheduler Thread - 94 - QuickShop/INFO]: [QuickShop] Failed to check for an update on build server! It might be an internet issue or the build server host is down. If you want disable the update checker, you can disable in config.yml, but we still high-recommend check for updates on SpigotMC.org often, Error: Did not get expected response code, got 404 for https://ci.codemc.io/job/Ghost-chu/job/QuickShop-Reremake/lastSuccessfulBuild/artifact/target/BUILDINFO
+[16:00:00] [Server thread/INFO]: Saving the game (this may take a moment!)
+[16:00:00] [Server thread/INFO]: Saved the game
+[16:30:00] [Server thread/INFO]: Saving the game (this may take a moment!)
+[16:30:00] [Server thread/INFO]: Saved the game
+[16:43:27] [User Authenticator #6/INFO]: UUID of player nate_4000 is aa0e41ff-7c06-4c0f-b282-6a128bfc6a6c
+[16:43:27] [Server thread/INFO]: nate_4000 joined the game
+[16:43:27] [Server thread/INFO]: nate_4000[/68.4.206.156:58551] logged in with entity id 31653 at ([Smorgasbord]1000.7089637825168, 42.72530628504197, 524.8114883584299)
+[16:43:27] [Server thread/ERROR]: Could not pass event DiscordMessageEvent to EssentialsDiscord v2.19.2
+java.util.concurrent.RejectedExecutionException: The Requester has been stopped! No new requests can be requested!
+	at net.essentialsx.dep.net.dv8tion.jda.internal.requests.Requester.request(Requester.java:107) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.dep.net.dv8tion.jda.internal.requests.RestActionImpl.queue(RestActionImpl.java:197) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.dep.net.dv8tion.jda.api.requests.RestAction.queue(RestAction.java:573) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.dep.net.dv8tion.jda.api.requests.RestAction.queue(RestAction.java:539) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.discord.JDADiscordService.sendMessage(JDADiscordService.java:146) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.discord.listeners.BukkitListener.onDiscordMessage(BukkitListener.java:47) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor377.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:git-Paper-197]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:629) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at net.essentialsx.discord.util.DiscordUtil.lambda$dispatchDiscordMessage$3(DiscordUtil.java:218) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.18.1.jar:git-Paper-197]
+	at org.bukkit.craftbukkit.v1_18_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1547) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:480) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1470) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1264) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.18.1.jar:git-Paper-197]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[16:43:27] [Craft Scheduler Thread - 92 - QuickShop/INFO]: [QuickShop] Failed to check for an update on build server! It might be an internet issue or the build server host is down. If you want disable the update checker, you can disable in config.yml, but we still high-recommend check for updates on SpigotMC.org often, Error: Did not get expected response code, got 404 for https://ci.codemc.io/job/Ghost-chu/job/QuickShop-Reremake/lastSuccessfulBuild/artifact/target/BUILDINFO
+[16:43:32] [Server thread/INFO]: CONSOLE issued server command: /give nate_4000 cookie 1
+[16:43:32] [Server thread/INFO]: Giving 1 of cookie to nate_4000.
+[16:44:21] [Server thread/INFO]: nate_4000 issued server command: /ess reload
+[16:44:22] [Server thread/INFO]: [Essentials] Loaded 36929 items from items.json.
+[16:44:22] [Server thread/INFO]: [Essentials] Using locale en_US
+[16:44:22] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[16:45:02] [Server thread/INFO]: nate_4000 issued server command: /k admin travel KingdomOfAntioch
+[16:45:09] [Server thread/INFO]: nate_4000 issued server command: /k admin bypass
+[16:45:11] [Server thread/INFO]: nate_4000 issued server command: /k admin travel KingdomOfAntioch
+[16:45:19] [Server thread/INFO]: nate_4000 issued server command: /title @s clear
+[16:45:19] [Server thread/INFO]: [nate_4000: Cleared titles for nate_4000]
+[16:45:59] [Server thread/INFO]: nate_4000 issued server command: /gamemode spectator
+[16:46:01] [Server thread/INFO]: nate_4000 issued server command: /gamemode creative
+[16:46:04] [Server thread/INFO]: nate_4000 issued server command: /k admin bypass
+[16:46:05] [Server thread/INFO]: nate_4000 issued server command: /k admin bypass
+[16:46:10] [Server thread/INFO]: nate_4000 issued server command: /gamemode spectator
+[16:46:15] [Server thread/INFO]: nate_4000 issued server command: /gamemode creative
+[16:59:52] [Craft Scheduler Thread - 101 - QuickShop/INFO]: [QuickShop] Failed to check for an update on build server! It might be an internet issue or the build server host is down. If you want disable the update checker, you can disable in config.yml, but we still high-recommend check for updates on SpigotMC.org often, Error: Did not get expected response code, got 404 for https://ci.codemc.io/job/Ghost-chu/job/QuickShop-Reremake/lastSuccessfulBuild/artifact/target/BUILDINFO
+[17:00:00] [Server thread/INFO]: Saving the game (this may take a moment!)
+[17:00:00] [Server thread/INFO]: Saved the game
+[17:04:04] [Server thread/INFO]: nate_4000 lost connection: Timed out
+[17:04:04] [Server thread/ERROR]: Could not pass event DiscordMessageEvent to EssentialsDiscord v2.19.2
+java.util.concurrent.RejectedExecutionException: The Requester has been stopped! No new requests can be requested!
+	at net.essentialsx.dep.net.dv8tion.jda.internal.requests.Requester.request(Requester.java:107) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.dep.net.dv8tion.jda.internal.requests.RestActionImpl.queue(RestActionImpl.java:197) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.dep.net.dv8tion.jda.api.requests.RestAction.queue(RestAction.java:573) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.dep.net.dv8tion.jda.api.requests.RestAction.queue(RestAction.java:539) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.discord.JDADiscordService.sendMessage(JDADiscordService.java:146) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.discord.listeners.BukkitListener.onDiscordMessage(BukkitListener.java:47) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor377.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:git-Paper-197]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:629) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at net.essentialsx.discord.util.DiscordUtil.dispatchDiscordMessage(DiscordUtil.java:216) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.discord.listeners.BukkitListener.sendDiscordMessage(BukkitListener.java:263) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.discord.listeners.BukkitListener.sendJoinQuitMessage(BukkitListener.java:134) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.discord.listeners.BukkitListener.onQuit(BukkitListener.java:109) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor373.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:git-Paper-197]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:629) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.players.PlayerList.remove(PlayerList.java:610) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.players.PlayerList.remove(PlayerList.java:595) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.onDisconnect(ServerGamePacketListenerImpl.java:1992) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.onDisconnect(ServerGamePacketListenerImpl.java:1972) ~[?:?]
+	at net.minecraft.network.Connection.handleDisconnection(Connection.java:712) ~[?:?]
+	at net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:221) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1636) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:480) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1470) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1264) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.18.1.jar:git-Paper-197]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:04:04] [Server thread/INFO]: nate_4000 left the game
+[17:04:04] [Craft Scheduler Thread - 96 - QuickShop/INFO]: [QuickShop] Failed to check for an update on build server! It might be an internet issue or the build server host is down. If you want disable the update checker, you can disable in config.yml, but we still high-recommend check for updates on SpigotMC.org often, Error: Did not get expected response code, got 404 for https://ci.codemc.io/job/Ghost-chu/job/QuickShop-Reremake/lastSuccessfulBuild/artifact/target/BUILDINFO
+[17:13:16] [User Authenticator #7/INFO]: UUID of player thebluehuntsman is 362b43a0-9ba1-4ded-868b-c4d518d7db8f
+[17:13:16] [Server thread/INFO]: thebluehuntsman joined the game
+[17:13:16] [Server thread/INFO]: thebluehuntsman[/68.4.206.156:51076] logged in with entity id 33667 at ([Smorgasbord]1127.5428787838964, 80.0, -26.403212591628805)
+[17:13:17] [Server thread/ERROR]: Could not pass event DiscordMessageEvent to EssentialsDiscord v2.19.2
+java.util.concurrent.RejectedExecutionException: The Requester has been stopped! No new requests can be requested!
+	at net.essentialsx.dep.net.dv8tion.jda.internal.requests.Requester.request(Requester.java:107) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.dep.net.dv8tion.jda.internal.requests.RestActionImpl.queue(RestActionImpl.java:197) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.dep.net.dv8tion.jda.api.requests.RestAction.queue(RestAction.java:573) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.dep.net.dv8tion.jda.api.requests.RestAction.queue(RestAction.java:539) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.discord.JDADiscordService.sendMessage(JDADiscordService.java:146) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.discord.listeners.BukkitListener.onDiscordMessage(BukkitListener.java:47) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor377.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:git-Paper-197]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:629) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at net.essentialsx.discord.util.DiscordUtil.lambda$dispatchDiscordMessage$3(DiscordUtil.java:218) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.18.1.jar:git-Paper-197]
+	at org.bukkit.craftbukkit.v1_18_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1547) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:480) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1470) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1264) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.18.1.jar:git-Paper-197]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:13:17] [Craft Scheduler Thread - 100 - QuickShop/INFO]: [QuickShop] Failed to check for an update on build server! It might be an internet issue or the build server host is down. If you want disable the update checker, you can disable in config.yml, but we still high-recommend check for updates on SpigotMC.org often, Error: Did not get expected response code, got 404 for https://ci.codemc.io/job/Ghost-chu/job/QuickShop-Reremake/lastSuccessfulBuild/artifact/target/BUILDINFO
+[17:13:21] [Server thread/INFO]: CONSOLE issued server command: /give thebluehuntsman cookie 1
+[17:13:21] [Server thread/INFO]: Giving 1 of cookie to thebluehuntsman.
+[17:15:40] [User Authenticator #8/INFO]: UUID of player nate_4000 is aa0e41ff-7c06-4c0f-b282-6a128bfc6a6c
+[17:15:40] [Server thread/INFO]: nate_4000 joined the game
+[17:15:40] [Server thread/INFO]: nate_4000[/68.4.206.156:58367] logged in with entity id 33943 at ([Smorgasbord]38.69999998807907, 56.0, 173.30000001192093)
+[17:15:40] [Server thread/ERROR]: Could not pass event DiscordMessageEvent to EssentialsDiscord v2.19.2
+java.util.concurrent.RejectedExecutionException: The Requester has been stopped! No new requests can be requested!
+	at net.essentialsx.dep.net.dv8tion.jda.internal.requests.Requester.request(Requester.java:107) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.dep.net.dv8tion.jda.internal.requests.RestActionImpl.queue(RestActionImpl.java:197) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.dep.net.dv8tion.jda.api.requests.RestAction.queue(RestAction.java:573) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.dep.net.dv8tion.jda.api.requests.RestAction.queue(RestAction.java:539) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.discord.JDADiscordService.sendMessage(JDADiscordService.java:146) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.discord.listeners.BukkitListener.onDiscordMessage(BukkitListener.java:47) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor377.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:git-Paper-197]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:629) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at net.essentialsx.discord.util.DiscordUtil.lambda$dispatchDiscordMessage$3(DiscordUtil.java:218) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.18.1.jar:git-Paper-197]
+	at org.bukkit.craftbukkit.v1_18_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1547) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:480) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1470) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1264) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.18.1.jar:git-Paper-197]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:15:41] [Craft Scheduler Thread - 96 - QuickShop/INFO]: [QuickShop] Failed to check for an update on build server! It might be an internet issue or the build server host is down. If you want disable the update checker, you can disable in config.yml, but we still high-recommend check for updates on SpigotMC.org often, Error: Did not get expected response code, got 404 for https://ci.codemc.io/job/Ghost-chu/job/QuickShop-Reremake/lastSuccessfulBuild/artifact/target/BUILDINFO
+[17:15:45] [Server thread/INFO]: CONSOLE issued server command: /give nate_4000 cookie 1
+[17:15:45] [Server thread/INFO]: Giving 1 of cookie to nate_4000.
+[17:15:52] [Server thread/INFO]: nate_4000 issued server command: /k admin bypass
+[17:15:58] [Server thread/INFO]: nate_4000 issued server command: /title @s clear
+[17:15:58] [Server thread/INFO]: [nate_4000: Cleared titles for nate_4000]
+[17:16:16] [Server thread/INFO]: nate_4000 issued server command: /gamemode spectator
+[17:16:18] [Server thread/INFO]: nate_4000 issued server command: /gamemode creative
+[17:16:22] [Server thread/WARN]: nate_4000 moved too quickly! -3.7142563138049383,11.997822685865799,2.690157539469766
+[17:16:39] [Server thread/INFO]: nate_4000 lost connection: Disconnected
+[17:16:39] [Server thread/ERROR]: Could not pass event DiscordMessageEvent to EssentialsDiscord v2.19.2
+java.util.concurrent.RejectedExecutionException: The Requester has been stopped! No new requests can be requested!
+	at net.essentialsx.dep.net.dv8tion.jda.internal.requests.Requester.request(Requester.java:107) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.dep.net.dv8tion.jda.internal.requests.RestActionImpl.queue(RestActionImpl.java:197) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.dep.net.dv8tion.jda.api.requests.RestAction.queue(RestAction.java:573) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.dep.net.dv8tion.jda.api.requests.RestAction.queue(RestAction.java:539) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.discord.JDADiscordService.sendMessage(JDADiscordService.java:146) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.discord.listeners.BukkitListener.onDiscordMessage(BukkitListener.java:47) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor377.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:git-Paper-197]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:629) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at net.essentialsx.discord.util.DiscordUtil.dispatchDiscordMessage(DiscordUtil.java:216) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.discord.listeners.BukkitListener.sendDiscordMessage(BukkitListener.java:263) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.discord.listeners.BukkitListener.sendJoinQuitMessage(BukkitListener.java:134) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.discord.listeners.BukkitListener.onQuit(BukkitListener.java:109) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor373.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:git-Paper-197]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:629) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.players.PlayerList.remove(PlayerList.java:610) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.players.PlayerList.remove(PlayerList.java:595) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.onDisconnect(ServerGamePacketListenerImpl.java:1992) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.onDisconnect(ServerGamePacketListenerImpl.java:1972) ~[?:?]
+	at net.minecraft.network.Connection.handleDisconnection(Connection.java:714) ~[?:?]
+	at net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:221) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1636) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:480) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1470) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1264) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.18.1.jar:git-Paper-197]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:16:39] [Server thread/INFO]: nate_4000 left the game
+[17:16:39] [Craft Scheduler Thread - 103 - QuickShop/INFO]: [QuickShop] Failed to check for an update on build server! It might be an internet issue or the build server host is down. If you want disable the update checker, you can disable in config.yml, but we still high-recommend check for updates on SpigotMC.org often, Error: Did not get expected response code, got 404 for https://ci.codemc.io/job/Ghost-chu/job/QuickShop-Reremake/lastSuccessfulBuild/artifact/target/BUILDINFO
+[17:16:58] [Server thread/INFO]: thebluehuntsman issued server command: /gamemode spectator
+[17:17:06] [Server thread/INFO]: thebluehuntsman issued server command: /gamemode creative
+[17:17:20] [User Authenticator #9/INFO]: UUID of player Onyxistent is 646bef0b-b92c-4960-91c0-01978ff53c6b
+[17:17:20] [Server thread/INFO]: Onyxistent joined the game
+[17:17:20] [Server thread/INFO]: Onyxistent[/68.4.206.156:62323] logged in with entity id 34465 at ([Smorgasbord]1265.3325239735677, 13.0, -5.912802398492304)
+[17:17:20] [Server thread/ERROR]: Could not pass event DiscordMessageEvent to EssentialsDiscord v2.19.2
+java.util.concurrent.RejectedExecutionException: The Requester has been stopped! No new requests can be requested!
+	at net.essentialsx.dep.net.dv8tion.jda.internal.requests.Requester.request(Requester.java:107) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.dep.net.dv8tion.jda.internal.requests.RestActionImpl.queue(RestActionImpl.java:197) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.dep.net.dv8tion.jda.api.requests.RestAction.queue(RestAction.java:573) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.dep.net.dv8tion.jda.api.requests.RestAction.queue(RestAction.java:539) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.discord.JDADiscordService.sendMessage(JDADiscordService.java:146) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.discord.listeners.BukkitListener.onDiscordMessage(BukkitListener.java:47) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor377.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:git-Paper-197]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:629) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at net.essentialsx.discord.util.DiscordUtil.lambda$dispatchDiscordMessage$3(DiscordUtil.java:218) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.18.1.jar:git-Paper-197]
+	at org.bukkit.craftbukkit.v1_18_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1547) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:480) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1470) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1264) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.18.1.jar:git-Paper-197]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:17:21] [Craft Scheduler Thread - 104 - QuickShop/INFO]: [QuickShop] Failed to check for an update on build server! It might be an internet issue or the build server host is down. If you want disable the update checker, you can disable in config.yml, but we still high-recommend check for updates on SpigotMC.org often, Error: Did not get expected response code, got 404 for https://ci.codemc.io/job/Ghost-chu/job/QuickShop-Reremake/lastSuccessfulBuild/artifact/target/BUILDINFO
+[17:17:25] [Server thread/INFO]: CONSOLE issued server command: /give Onyxistent cookie 1
+[17:17:25] [Server thread/INFO]: Giving 1 of cookie to Onyxistent.
+[17:20:57] [Server thread/INFO]: thebluehuntsman issued server command: /k admin claim radius 5
+[17:21:04] [Async Chat Thread - #11/INFO]: [Konquest] Barbarians | thebluehuntsman: a
+[17:21:41] [Server thread/INFO]: thebluehuntsman issued server command: /k admin bypass
+[17:22:08] [Server thread/INFO]: thebluehuntsman issued server command: /k map auto
+[17:24:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@ca56d0a[id=<null>,name=MonkeyTamer79,properties={},legacy=false] (/68.4.206.156:51403) lost connection: Disconnected
+[17:24:20] [User Authenticator #10/INFO]: UUID of player MonkeyTamer79 is e31f61f0-3640-41b2-81e0-96904e9a9883
+[17:24:20] [Server thread/INFO]: MonkeyTamer79 joined the game
+[17:24:20] [Server thread/INFO]: MonkeyTamer79[/68.4.206.156:51410] logged in with entity id 35011 at ([Smorgasbord]643.6999999880791, 63.0, 315.5558459316302)
+[17:24:20] [Server thread/ERROR]: Could not pass event DiscordMessageEvent to EssentialsDiscord v2.19.2
+java.util.concurrent.RejectedExecutionException: The Requester has been stopped! No new requests can be requested!
+	at net.essentialsx.dep.net.dv8tion.jda.internal.requests.Requester.request(Requester.java:107) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.dep.net.dv8tion.jda.internal.requests.RestActionImpl.queue(RestActionImpl.java:197) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.dep.net.dv8tion.jda.api.requests.RestAction.queue(RestAction.java:573) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.dep.net.dv8tion.jda.api.requests.RestAction.queue(RestAction.java:539) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.discord.JDADiscordService.sendMessage(JDADiscordService.java:146) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at net.essentialsx.discord.listeners.BukkitListener.onDiscordMessage(BukkitListener.java:47) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor377.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:75) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:git-Paper-197]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:629) ~[paper-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at net.essentialsx.discord.util.DiscordUtil.lambda$dispatchDiscordMessage$3(DiscordUtil.java:218) ~[EssentialsXDiscord-2.19.2.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.18.1.jar:git-Paper-197]
+	at org.bukkit.craftbukkit.v1_18_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:483) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1547) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:480) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1470) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1264) ~[paper-1.18.1.jar:git-Paper-197]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.18.1.jar:git-Paper-197]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:24:20] [Craft Scheduler Thread - 103 - QuickShop/INFO]: [QuickShop] Failed to check for an update on build server! It might be an internet issue or the build server host is down. If you want disable the update checker, you can disable in config.yml, but we still high-recommend check for updates on SpigotMC.org often, Error: Did not get expected response code, got 404 for https://ci.codemc.io/job/Ghost-chu/job/QuickShop-Reremake/lastSuccessfulBuild/artifact/target/BUILDINFO
+[17:24:25] [Server thread/INFO]: CONSOLE issued server command: /give MonkeyTamer79 cookie 1
+[17:24:25] [Server thread/INFO]: Giving 1 of cookie to MonkeyTamer79.
+[17:25:03] [Server thread/INFO]: MonkeyTamer79 issued server command: /k travel FarFarAway
+[17:26:22] [Server thread/INFO]: MonkeyTamer79 issued server command: /k travel OhEeeOhEeeOh
+[17:26:30] [Server thread/WARN]: MonkeyTamer79 moved too quickly! 0.1622625674349365,9.93876327695979,-1.6230515256529543
+[17:26:59] [Server thread/INFO]: MonkeyTamer79 issued server command: /k travel capital
+[17:28:41] [Server thread/INFO]: thebluehuntsman issued server command: /k admin makekingdom GnoKloo
+[17:29:31] [Server thread/INFO]: thebluehuntsman issued server command: /k admin claim radius 5
+[17:30:00] [Server thread/INFO]: Saving the game (this may take a moment!)
+[17:30:00] [Server thread/INFO]: Saved the game
+[17:30:24] [Server thread/INFO]: thebluehuntsman issued server command: /k admin claim radius 1
+[17:30:29] [Server thread/INFO]: thebluehuntsman issued server command: /k admin claim radius 1
+[17:30:35] [Server thread/INFO]: thebluehuntsman issued server command: /k admin claim radius 2
+[17:30:51] [Server thread/INFO]: thebluehuntsman issued server command: /k admin claim radius 2

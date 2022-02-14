@@ -1,2 +1,18 @@
 # Session Lock
 session.lock
+
+#Player data
+advancements/*
+data/*
+datapacks/*
+entities/*
+playerdata/*
+poi/*
+region/*
+stats/*
+
+#Level data
+*.nbt
+*.nbt_old
+*.dat
+*.dat_old

@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1644735879504
-  login: 1644736004451
+  logout: 1644801399248
+  login: 1644801340909
 money: '0.0'
 last-account-name: nate_4000
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: fe23ae59-668f-453b-841b-4fdf7e1a759f
   world-name: Smorgasbord
-  x: 38.52399428156845
-  y: 56.0
-  z: 176.69999998807907
-  yaw: 126.21554565429688
-  pitch: 13.367161750793457
+  x: -69.92653836710629
+  y: 82.0
+  z: 158.69999998807907
+  yaw: 1.4731119871139526
+  pitch: 7.677799701690674
