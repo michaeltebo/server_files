@@ -1,7 +1,0 @@
-# Player GUID Obfuscation
-*.json
-
-# World Info
-Smorgasbord/*
-Smorgasbord_nether/*
-Smorgasbord_the_end/*
