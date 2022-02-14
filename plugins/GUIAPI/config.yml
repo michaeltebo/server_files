@@ -1,0 +1,17 @@
+send_period_milis: 1900
+anon_period_ticks: 20
+anon_duration_ticks: 40
+debug:
+  default:
+    offset: 0
+    text: "This text should start at the screen center"
+    font:
+      id: "minecraft:default"
+    alignment: "left"
+  test:
+    offset: -10
+    text: "Some text"
+    font:
+      id: "minecraft:default"
+      height: 8
+    alignment: "right"
