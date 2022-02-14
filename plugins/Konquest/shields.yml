@@ -16,23 +16,3 @@
 # Lines that begin with "#" (like this one) are comments, and do not change any settings.
 # Use a YAML parser to make sure this file is correctly formatted with no errors, like https://yaml-online-parser.appspot.com/
 # 
-shields:
-  Short:
-    charge: 1800
-    cost: 100
-  Intermediate:
-    charge: 7200
-    cost: 200
-  Long:
-    charge: 28800
-    cost: 300
-armors:
-  Light:
-    charge: 50
-    cost: 100
-  Medium:
-    charge: 200
-    cost: 200
-  Heavy:
-    charge: 800
-    cost: 300
