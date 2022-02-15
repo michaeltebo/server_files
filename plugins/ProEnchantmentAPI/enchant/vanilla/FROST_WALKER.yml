@@ -14,12 +14,12 @@ group: 'stride'
 
 # Items that can receive the enchantment from enchanting or anvils
 natural-items: 
-- 'IRON_BOOTS'
-- 'LEATHER_BOOTS'
 - 'NETHERITE_BOOTS'
-- 'CHAINMAIL_BOOTS'
 - 'GOLDEN_BOOTS'
+- 'IRON_BOOTS'
 - 'DIAMOND_BOOTS'
+- 'CHAINMAIL_BOOTS'
+- 'LEATHER_BOOTS'
 
 # Additional items that can only receive the enchantment through anvils
 anvil-items:  []

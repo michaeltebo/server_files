@@ -14,13 +14,13 @@ group: 'Default'
 
 # Items that can receive the enchantment from enchanting or anvils
 natural-items: 
-- 'TURTLE_HELMET'
-- 'DIAMOND_HELMET'
-- 'LEATHER_HELMET'
-- 'IRON_HELMET'
 - 'CHAINMAIL_HELMET'
 - 'NETHERITE_HELMET'
 - 'GOLDEN_HELMET'
+- 'DIAMOND_HELMET'
+- 'IRON_HELMET'
+- 'LEATHER_HELMET'
+- 'TURTLE_HELMET'
 
 # Additional items that can only receive the enchantment through anvils
 anvil-items:  []

@@ -34,7 +34,7 @@
 #     Level 1:    Raises enchantment offers by 1 level
 #
 # /!\ DO NOT MODIFY VERSION /!\
-version: 0.8.2
+version: 0.8.4
 upgrades:
   loot:
     costs:

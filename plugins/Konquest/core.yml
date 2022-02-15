@@ -3,7 +3,7 @@
 # https://github.com/Rumsfield/konquest-doc/wiki/Configuration
 #
 # /!\ DO NOT MODIFY VERSION /!\
-version: 0.8.2
+version: 0.8.4
 language: english
 core:
   debug: false

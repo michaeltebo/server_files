@@ -5,7 +5,7 @@
 # If a line has a "%s", keep it. You cannot add or remove any "%s".
 #
 # /!\ DO NOT MODIFY VERSION /!\
-version: 0.8.2
+version: 0.8.4
 label:
   online-players: Online Players
   total-players: Total Players
